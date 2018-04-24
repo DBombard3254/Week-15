@@ -1,0 +1,7 @@
+When trying to install i had an issue where git was not installed. So i just simply installed git and procceded compiling. 
+
+I then extracted it with a "tar" command and then moved it to the correct directory with "cd", but before then i made a directory with the "mkdir" command
+
+And then i did a default configure on the install, and then finally i installed it.
+
+the one that i found is called dwyl/repo-badges
